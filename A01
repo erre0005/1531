@@ -1,4 +1,7 @@
 
+To upload assignments go to assignments folder
+
+
 <?php echo "Welcome to PHP"; 
     echo "<hr style=\"margin 1rem 0\">";
 ?>
